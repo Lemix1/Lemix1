@@ -1,11 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry Dickson
 =====================================================================================================================================
+
 I am a frontend developer
 -------------------------
 
 I have been learning front-end development for a little over a year now and have been using bootstrap for most of my projects. I have also been learning other frameworks such as angular and react but I think that bootstrap is still the easiest and most versatile framework to use.
 
 * 🌍  I'm based in Sydney
+* 🖥️  See my portfolio at [modasify.com](http://modasify.com)
 * 🚀  I'm currently working on [modasify](http://modasify.com)
 * 🧠  I'm learning React.js
 
@@ -24,4 +26,4 @@ I have been learning front-end development for a little over a year now and have
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Lemix1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Harry_BKD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/@lemix1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Lemix #3602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Lemix1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Harry_BKD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
