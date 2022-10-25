@@ -27,7 +27,3 @@ I have been learning front-end development for a little over a year now and have
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Lemix1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Harry_BKD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/Lemix1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemix1&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
