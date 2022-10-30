@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry
 =====================================================================================================================================
 
-I am a frontend developer
+I am a frontend developer!
 -------------------------
 
 I have been learning front-end development for a little over a year now and have been using bootstrap for most of my projects. I have also been learning other frameworks such as angular and react but I think that bootstrap is still the easiest and most versatile framework to use.
