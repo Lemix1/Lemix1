@@ -1,7 +1,7 @@
 Hi, my name is Harry
 =====================================================================================================================================
 
-I have been learning front-end development for a little over a year now and have been using bootstrap for most of my projects. I have also been learning other frameworks such as angular and react but I think that bootstrap is still the easiest and most versatile framework to use.
+I am a programmer with interested in cybersecurity and front end development
 
 * 🌍  I'm based in Sydney, Australia 
 * 🧠  I'm learning React.js
