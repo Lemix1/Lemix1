@@ -1,7 +1,7 @@
 Hi, my name is Harry
 =====================================================================================================================================
 
-I am a programmer with interested in cybersecurity and front end development
+I am a programmer with interests in cybersecurity and front end development
 
 * 🌍  I'm based in Sydney, Australia 
 * 🧠  I'm learning React.js
